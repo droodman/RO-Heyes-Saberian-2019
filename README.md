@@ -5,5 +5,5 @@ If the participants in the debate, or anyone else, changes my mind about anythin
 
 I tried to use arXiv for this purpose but its semi-automatic filters choked on a document whose title begins with "Opinion." arXiv doesn't host opinions!
 
-The data and code archive for this opinion is (on the Harvard Dataverse)[https://doi.org/10.7910/DVN/EPDXVX].
+The data and code archive for this opinion is [on the Harvard Dataverse](https://doi.org/10.7910/DVN/EPDXVX).
 .
